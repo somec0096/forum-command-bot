@@ -1,0 +1,12 @@
+{
+  "name": "forum-command-bot",
+  "version": "1.0.0",
+  "description": "手动触发批量开启/关闭论坛帖子",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
